@@ -1,0 +1,6 @@
+pandas==1.2.3
+streamlit==0.82.0
+matplotlib==3.3.4
+sklearn==0.24.1
+shap==0.39.0
+slicer==0.0.7
